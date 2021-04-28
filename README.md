@@ -4,6 +4,6 @@ This repository contains the supplemental reports for our submitted manuscript "
 
 Contents:
 
-- [Coherence check](coherence_check.md)
+- [Coherence check](coherence-check.md)
 - [Precision check](precision-check.md)
 
